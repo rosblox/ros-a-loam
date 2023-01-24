@@ -55,7 +55,7 @@ This section details the workflow with a ROS package in a Docker image. Basic kn
 
 This repository's automatically built Docker image is uploaded to Github's Container Registry (ghcr.io). Newer versions of the Docker image can be pulled by running
 ```
-docker pull ghcr.io/rosblox/ros-a-loam:melodic
+docker pull ghcr.io/rosblox/ros-a-loam:noetic
 ```
 
 ### Update the ROS package in the (automatically built) Docker image
