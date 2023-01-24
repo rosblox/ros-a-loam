@@ -1,0 +1,6 @@
+[submodule "ceres-solver"]
+	path = ceres-solver
+	url = https://ceres-solver.googlesource.com/ceres-solver
+[submodule "A-LOAM"]
+	path = A-LOAM
+	url = https://github.com/rosblox/A-LOAM.git
